@@ -1,6 +1,10 @@
 * {
   box-sizing: border-box;
 }
-h1{
-    color:blue;
+h1 {
+  color: blue;
+}
+p {
+  margin-top: 2em;
+  margin-left: 3em;
 }
